@@ -15,4 +15,5 @@ Run `ng generate component component-name` to generate a new component. You can 
 Run `ng build` to build the project with `environment.ts`. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
 Run `npm run build:test` to build the project with `environment.test.ts`.
+
 Run `npm run build:prod` to build the project with `environment.prod.ts`.
