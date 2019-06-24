@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  buildType: 789
+  buildType: 456
 };
